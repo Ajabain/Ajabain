@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ajabain</h1>
-<h3 align="center">Senior Web Developer specializing in front-end development. Experienced with all stages of the development cycle fordynamic web projects.</h3>
+<h3 align="center">Senior Web Developer specializing in front-end development. Experienced with all stages of the development cycle for dynamic web projects.</h3>
 
 <p align="left"> <a href="https://twitter.com/moyahya8" target="blank"><img src="https://img.shields.io/twitter/follow/moyahya8?logo=twitter&style=for-the-badge" alt="moyahya8" /></a> </p>
 
